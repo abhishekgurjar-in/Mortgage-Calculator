@@ -22,6 +22,7 @@ The **Mortgage Calculator** is a web application designed to help users calculat
 
  performs the mortgage calculations.
 
+
 ## Installation
 
 To get started with the project, follow these steps:
